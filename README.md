@@ -6,9 +6,8 @@ I love building scalable, clean, and performance-focused applications using mode
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](sumitsoni0544@gmail.com)
 
 ---
 
@@ -33,30 +32,4 @@ I love building scalable, clean, and performance-focused applications using mode
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
----
 
-# 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-profile-trophy-orcin.vercel.app/?username=sumittcodess&theme=gruvbox&margin-w=5&column=9&no-frame=true" alt="sumittcodess" />
-</p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sumittcodess&show_icons=true&include_all_commits=true&hide_border=true&theme=gruvbox" alt="sumittcodess" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumittcodess&show_icons=true&locale=en&layout=compact&count-private=true&langs_count=20&theme=gruvbox" alt="sumittcodess" />
-
-<p></p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sumittcodess&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-### 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sumittcodess&no-bg=true&no-frame=true&margin-w=10&title=Commit,Repositories,Issues,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
-
-![snake gif](https://github.com/sumittcodess/sumittcodess/blob/output/github-snake-dark.svg)
-
----
