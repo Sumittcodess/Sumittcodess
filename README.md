@@ -1,8 +1,5 @@
 # 💫 About Me:
-
-I'm Sumit, a passionate developer on a journey to bring real value through powerful web experiences.  
-I love building scalable, clean, and performance-focused applications using modern technologies.
-
+Web Developer | React.js | Next.js | Frontend & Web Application Development
 ---
 
 ## 🌐 Socials:
