@@ -1,5 +1,6 @@
 # 💫 About Me:
 Web Developer | React.js | Next.js | Frontend & Web Application Development
+
 ---
 
 ## 🌐 Socials:
