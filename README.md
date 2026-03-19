@@ -28,6 +28,7 @@ Web Developer | React.js | Next.js | Frontend & Web Application Development
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/payload-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeMon](https://img.shields.io/badge/nodemon-85EA2D?style=for-the-badge&logo=nodemon&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
